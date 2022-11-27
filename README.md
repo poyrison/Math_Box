@@ -2,4 +2,4 @@
 1. calculator.py : 계산기에 있는 기능들을 제공하는 모듈
 2. License.py : 기본 라이센스
 3. anything
-4. 123123123
+4. 123
